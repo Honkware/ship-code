@@ -9,13 +9,13 @@ Derived from analysis of 470+ real-world PRs, 304K AI-authored commits, and indu
 Via [skills.sh](https://skills.sh):
 
 ```bash
-npx skills add owner/ship-code
+npx skills add Honkware/ship-code
 ```
 
 Via [agentskill.sh](https://agentskill.sh):
 
 ```
-/learn @owner/ship-code
+/learn @Honkware/ship-code
 ```
 
 ## What's Covered
