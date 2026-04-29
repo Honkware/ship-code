@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Ship Code",
+  "date": "April 2026",
+  "abstract": "Code quality guidelines for shipping production-grade software. Twenty rules across seven categories covering error handling, security, testing, architecture, documentation, naming, and code structure. Each rule includes incorrect/correct code examples. Derived from analysis of 470+ real-world PRs, 304K AI-authored commits, and industry security research. Use when writing, reviewing, or refactoring code to avoid common AI-generated code pitfalls: 1.7x more bugs, 2.74x more security issues, 20-30% verbosity.",
+  "references": [
+    "https://coderabbit.ai/blog/the-real-problem-with-ai-generated-code",
+    "https://www.veracode.com/security/genai-code-security-report",
+    "https://www.gitclear.com/coding_assistant_research",
+    "https://martinfowler.com/ieeeSoftware/failFast.html",
+    "https://clean-code-developer.com/",
+    "https://owasp.org/",
+    "https://skills.sh"
+  ]
+}
